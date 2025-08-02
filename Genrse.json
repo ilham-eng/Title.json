@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Action",
+        "description": "Exciting, fast-paced stories with physical challenges and fights"
+    },
+    {
+        "id": 2,
+        "name": "Adventure",
+        "description": "Exciting journeys, explorations, and discoveries"
+    },
+    {
+        "id": 3,
+        "name": "Comedy",
+        "description": "Humorous stories meant to entertain and provoke laughter"
+    },
+    {
+        "id": 4,
+        "name": "Drama",
+        "description": "Serious, emotional stories focusing on character development"
+    },
+    {
+        "id": 5,
+        "name": "Fantasy",
+        "description": "Magical or supernatural elements not found in the real world"
+    },
+    {
+        "id": 6,
+        "name": "Horror",
+        "description": "Stories meant to scare, unsettle, or frighten the audience"
+    },
+    {
+        "id": 7,
+        "name": "Mystery",
+        "description": "Stories centered around solving a puzzle or crime"
+    },
+    {
+        "id": 8,
+        "name": "Romance",
+        "description": "Stories focusing on love and relationships"
+    },
+    {
+        "id": 9,
+        "name": "Sci-Fi",
+        "description": "Futuristic or technological themes, often in space"
+    },
+    {
+        "id": 10,
+        "name": "Slice of Life",
+        "description": "Stories depicting everyday experiences"
+    },
+    {
+        "id": 11,
+        "name": "Sports",
+        "description": "Stories centered around athletic competitions"
+    },
+    {
+        "id": 12,
+        "name": "Supernatural",
+        "description": "Phenomena that cannot be explained by natural laws"
+    },
+    {
+        "id": 13,
+        "name": "Psychological",
+        "description": "Stories that delve into mental and emotional states"
+    },
+    {
+        "id": 14,
+        "name": "Thriller",
+        "description": "Stories with intense excitement, suspense, and anticipation"
+    },
+    {
+        "id": 15,
+        "name": "Mecha",
+        "description": "Stories featuring giant robots or machines"
+    },
+    {
+        "id": 16,
+        "name": "Isekai",
+        "description": "Characters transported to or reincarnated in a parallel world"
+    }
+]
