@@ -1,0 +1,11 @@
+[
+  {
+    "title": "Naruto",
+    "poster": "https://example.com/naruto-poster.jpg",
+    "video": "https://example.com/naruto-ep1.mp4",
+    "episodes": [
+      {"episode": 1, "url": "https://example.com/naruto-ep1.mp4"},
+      {"episode": 2, "url": "https://example.com/naruto-ep2.mp4"}
+    ]
+  }
+]
