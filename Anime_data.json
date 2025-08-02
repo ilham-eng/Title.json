@@ -1,11 +1,51 @@
 [
-  {
-    "title": "Naruto",
-    "poster": "https://example.com/naruto-poster.jpg",
-    "video": "https://example.com/naruto-ep1.mp4",
-    "episodes": [
-      {"episode": 1, "url": "https://example.com/naruto-ep1.mp4"},
-      {"episode": 2, "url": "https://example.com/naruto-ep2.mp4"}
-    ]
-  }
+    {
+        "id": 1,
+        "title": "Attack on Titan",
+        "poster": "https://via.placeholder.com/300x450?text=Attack+on+Titan",
+        "banner": "https://via.placeholder.com/1920x1080?text=Attack+on+Titan+Banner",
+        "description": "After his hometown is destroyed and his mother is killed, young Eren Jaeger vows to cleanse the earth of the giant humanoid Titans that have brought humanity to the brink of extinction.",
+        "type": "TV",
+        "episodes": 75,
+        "status": "Completed",
+        "genres": ["Action", "Drama", "Fantasy"],
+        "rating": "R - 17+",
+        "episodes": [
+            {
+                "id": 101,
+                "number": 1,
+                "title": "To You, in 2000 Years: The Fall of Shiganshina, Part 1",
+                "url": "https://example.com/videos/aot-ep1.mp4",
+                "thumbnail": "https://via.placeholder.com/300x169?text=AOT+Ep1"
+            },
+            {
+                "id": 102,
+                "number": 2,
+                "title": "That Day: The Fall of Shiganshina, Part 2",
+                "url": "https://example.com/videos/aot-ep2.mp4",
+                "thumbnail": "https://via.placeholder.com/300x169?text=AOT+Ep2"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Demon Slayer",
+        "poster": "https://via.placeholder.com/300x450?text=Demon+Slayer",
+        "banner": "https://via.placeholder.com/1920x1080?text=Demon+Slayer+Banner",
+        "description": "Tanjiro Kamado, a kindhearted boy who sells charcoal for a living, finds his family slaughtered by a demon. To make matters worse, his younger sister Nezuko has been transformed into a demon herself.",
+        "type": "TV",
+        "episodes": 26,
+        "status": "Completed",
+        "genres": ["Action", "Fantasy", "Supernatural"],
+        "rating": "R - 17+",
+        "episodes": [
+            {
+                "id": 201,
+                "number": 1,
+                "title": "Cruelty",
+                "url": "https://example.com/videos/ds-ep1.mp4",
+                "thumbnail": "https://via.placeholder.com/300x169?text=DS+Ep1"
+            }
+        ]
+    }
 ]
